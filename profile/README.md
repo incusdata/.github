@@ -3,7 +3,7 @@
 This is our profile page, currently ‘a work in progress’ (2023-03-17). 
 As is our [GitHub Pages][gp-incusdata].
 
-## Coding matters
+## Coding Matters
 
 At Incus Data, we believe **CODING MATTERS**.
 
