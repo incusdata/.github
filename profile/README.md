@@ -37,4 +37,3 @@ If you find something here useful, please follow us on GitHub. And if you have q
     https://incusdata.github.io
     "GitHub Pages — Incus Data Home Page"
 
-![
