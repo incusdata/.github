@@ -31,7 +31,9 @@ You can find a [list of courses](https://incusdata.com/courses) on [our website]
 
 We are happy to share our work with everyone - not just the delegates who come on our courses.
 
-If you find something here useful, please follow us on GitHub. And if you have questions, comments or pick up an error, please submit a pull request. We appreciate your participation.
+If you find something here useful, please **follow us on GitHub**. 
+
+And if you have questions, comments or pick up an error, please submit a pull request. We appreciate your participation.
 
 [gp-incusdata]:
     https://incusdata.github.io
