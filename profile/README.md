@@ -1,6 +1,6 @@
 
 
-<div><img src="https://user-images.githubusercontent.com/51994052/229132288-fc1cc8d2-500d-4f64-a476-ddcd33699397.png" alt="https://www.incusdata.com "Incus Data Home Page" width="35%" style="width:35%; float:left"></div>
+<div style="margin:auto"><img src="https://user-images.githubusercontent.com/51994052/229132288-fc1cc8d2-500d-4f64-a476-ddcd33699397.png" alt="https://www.incusdata.com "Incus Data Home Page" width="35%" style="width:35%;"></div>
     
 # Incus Data: Training for Programmers
     
