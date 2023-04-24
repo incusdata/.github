@@ -1,4 +1,4 @@
-<div style="align:center"><img src="https://user-images.githubusercontent.com/51994052/229132288-fc1cc8d2-500d-4f64-a476-ddcd33699397.png" alt="https://www.incusdata.com "Incus Data Home Page" style="width:30%"></div>
+<div style="align:center"><img src="https://user-images.githubusercontent.com/51994052/229132288-fc1cc8d2-500d-4f64-a476-ddcd33699397.png" alt="https://www.incusdata.com "Incus Data Home Page" style="white-space:block;align:center;width:30%"></div>
     
 # Incus Data: Training for Programmers
 
