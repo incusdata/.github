@@ -1,7 +1,9 @@
 
 
-<div><h1>Incus Data: Training for Programmers<img src="https://user-images.githubusercontent.com/51994052/229132288-fc1cc8d2-500d-4f64-a476-ddcd33699397.png" alt="https://www.incusdata.com "Incus Data Home Page" width="35%" style="width:35%; float:left"></h1></div>
-
+<div><img src="https://user-images.githubusercontent.com/51994052/229132288-fc1cc8d2-500d-4f64-a476-ddcd33699397.png" alt="https://www.incusdata.com "Incus Data Home Page" width="35%" style="width:35%; float:left"></div>
+    
+# Incus Data: Training for Programmers
+    
 Robert C. Martin (aka Uncle Bob) wrote this in his wonderful blog article about [The Obligation of the Programmer](https://blog.cleancoder.com/uncle-bob/2014/11/15/WeRuleTheWorld.html):
 
 *“We programmers. We rule the world. We write the rules that make our society work.*
