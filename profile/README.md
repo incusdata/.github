@@ -1,8 +1,8 @@
 
 
-<div style="margin:auto"><img src="https://user-images.githubusercontent.com/51994052/229132288-fc1cc8d2-500d-4f64-a476-ddcd33699397.png" alt="https://www.incusdata.com "Incus Data Home Page" width="35%" style="width:35%;"></div>
-    
 # Incus Data: Training for Programmers
+<div style="margin:auto"><h1><img src="https://user-images.githubusercontent.com/51994052/229132288-fc1cc8d2-500d-4f64-a476-ddcd33699397.png" alt="https://www.incusdata.com "Incus Data Home Page" width="30%" style="width:35%;">Incus Data: Training for Programmers</h1></div>
+
     
 Robert C. Martin (aka Uncle Bob) wrote this in his wonderful blog article about [The Obligation of the Programmer](https://blog.cleancoder.com/uncle-bob/2014/11/15/WeRuleTheWorld.html):
 
